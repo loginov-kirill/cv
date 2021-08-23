@@ -14,7 +14,7 @@ _Software engineer based in Kirov, Moscow_ <br>
  - Full-Stack Development
  - Object-Oriented Analysis, Design, Programming (OOA/OOD/OOP)
  - Algorithm Design and Analysis
- - Behavior / Test Driven Development - Unit, Integration, System Testing
+ - Test Driven Development - Unit, Integration, System Testing
  - Agile Methodologies - Scrum
  - Fluent in functional programming, asynchronous programming
  - Experience in statistical data analysis and machine learning
