@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: 💻✒️📄🌟
+title: Kirill Loginov's CV
 logo: /assets/img/id.jpg
-description: Kirill Loginov's CV
-show_downloads: true
+# description: Kirill Loginov's CV
+show_downloads: false
