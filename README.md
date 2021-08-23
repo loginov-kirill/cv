@@ -1,10 +1,23 @@
-# Kirill Loginov
+# Software Engineer
 
 _Software engineer based in Kirov, Russia_ <br>
 
 [Email](mailto:jiekc.pppc@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
 
-## 👩🏼‍💻 Technical Experience
+## Skills
+ - Full-Stack Web Development
+ - Object-Oriented Analysis, Design, Programming (OOA/OOD/OOP)
+ - Algorithm Design and Analysis
+ - Behavior / Test Driven Development - Unit, Integration, System Testing
+ - Agile Methodologies - Scrum
+ - Fluent in Full OO Languages - C#, Python
+ - Fluent in functional programming, asynchronous programming
+ - Familiar with Vue.js, Amazon Web Services (AWS)
+ - Experience in statistical data analysis and machine learning - TensorFlow, Matlab, Octave
+ - Experience in RDBMS and ORM - MySQL, PostgreSQL, Active Record
+ - Experience in NoSQL - MongoDB, EllasticSearch
+ - Proficient in Linux Server Configuration & Administration
+## Technical Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
@@ -81,5 +94,5 @@ Free, two-day workshops to help people build their first website.
 ## 💬 Languages
 
 **Russian**: Native <br>
-**English**: B1
+**English**: B1, Intermediate
 <br><br>
