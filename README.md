@@ -5,27 +5,19 @@ _Software engineer based in Kirov, Russia_ <br>
 [Email](mailto:jiekc.pppc@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
 
 ## Skills
- Tools:
  - Python, C#, Bash
  - PostgreSQL, MySQL, MongoDB, Elasticsearch
  - Linux, RabbitMQ, Gitlab, CI/CD, Docker, Nginx, Zennoposter, Minio
- - Scrapy, Django
+ - Amazon Web Services (AWS)
+ - Scrapy, Django, Vue.js, TensorFlow, Matlab, Octave
 
  - Full-Stack Development
  - Object-Oriented Analysis, Design, Programming (OOA/OOD/OOP)
  - Algorithm Design and Analysis
  - Behavior / Test Driven Development - Unit, Integration, System Testing
  - Agile Methodologies - Scrum
- - Fluent in Full OO Languages - C#, Python, Bash
  - Fluent in functional programming, asynchronous programming
- - Fluent in Docker, RabbitMQ, Nginx, CI/CD, 3proxy
- - Familiar with Vue.js, Amazon Web Services (AWS)
- - Experience in statistical data analysis and machine learning - TensorFlow, Matlab, Octave
- - Experience in RDBMS and ORM - MySQL, PostgreSQL, Active Record
- - Experience in NoSQL - MongoDB, EllasticSearch
- - Experience in Frameworks - Scrapy, Django
- - Proficient in Linux Server Configuration & Administration
-
+ - Experience in statistical data analysis and machine learning
 
 ## Work Experience
 
