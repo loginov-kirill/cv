@@ -1,6 +1,6 @@
 # Loginov Kirill
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Software engineer based in Kirov, Russia_ <br>
 
 [Email](mailto:jiekc.pppc@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://www.codewars.com/users/logoskir) . [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
 
