@@ -17,6 +17,7 @@ _Software engineer based in Kirov, Russia_ <br>
  - Experience in RDBMS and ORM - MySQL, PostgreSQL, Active Record
  - Experience in NoSQL - MongoDB, EllasticSearch
  - Proficient in Linux Server Configuration & Administration
+
 ## Technical Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
