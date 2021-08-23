@@ -21,19 +21,19 @@ _Software engineer based in Kirov, Russia_ <br>
 
 ## Work Experience
 
-### positivebet @ [BRYTER](https://www.positivebet.com/) _(January 2017)_ <br>
+#### positivebet @ [BRYTER](https://www.positivebet.com/) _(Jan 2017)_
 💼 A bot for sure bets for bookmakers 🚀 the program was looking for values for the odds of sure bets. <br>
 **_Technologies used:_** C# <br>
 
-### parserok @ [GraphQL Foundation](https://parserok.ru/) _(Fuly 2017)_ <br>
+### parserok @ [GraphQL Foundation](https://parserok.ru/) _(Jul 2017)_ <br>
 💼 Collecting information from all message boards in Russia and the CIS 🚀 Collection of numbers, names, places of residence of users <br>
 **_Technologies used:_** ZennoPoster, PostgreSQL <br>
 
-### senler @ [Meeshkan](https://senler.ru/) _(December 2017)_ <br>
+### senler @ [Meeshkan](https://senler.ru/) _(Dec 2017)_ <br>
 💼 VK combine for arbitrage of traffic 🚀 The program collects data from VK. Creates accounts. Sends messages. <br>
 **_Technologies used:_** Python
 <br>
-### checkNumbers  _(December 2017)_ <br>
+### checkNumbers  _(Dec 2017)_ <br>
 💼 Messengers combine 🚀 Check numbers for whatsapp, telegram, viber. <br>
 **_Technologies used:_** Appium, Python <br>
 
@@ -52,7 +52,6 @@ _Software engineer based in Kirov, Russia_ <br>
 
 
 ## 💬 Languages
-
 **Russian**: Native <br>
 **English**: B1, Intermediate
 <br><br>
