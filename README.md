@@ -1,6 +1,6 @@
 # Software Engineer
 
-_Software engineer based in Kirov, Moscow_ <br>
+_Software engineer based in Moscow, Russia_ <br>
 
 [Email](mailto:jiekc.pppc@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
 
