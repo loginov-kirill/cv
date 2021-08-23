@@ -1,8 +1,8 @@
-# Loginov Kirill
+# Kirill Loginov
 
 _Software engineer based in Kirov, Russia_ <br>
 
-[Email](mailto:jiekc.pppc@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://www.codewars.com/users/logoskir) . [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
+[Email](mailto:jiekc.pppc@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
 
 ## 👩🏼‍💻 Technical Experience
 
