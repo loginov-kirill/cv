@@ -17,6 +17,8 @@ _Software engineer based in Kirov, Russia_ <br>
  - Experience in RDBMS and ORM - MySQL, PostgreSQL, Active Record
  - Experience in NoSQL - MongoDB, EllasticSearch
  - Proficient in Linux Server Configuration & Administration
+
+
 ## Technical Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
@@ -83,7 +85,7 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   - Fostering an inclusive community and enforcing the code of conduct
   - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
   <br><br>
-  
+
 **Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
 Free, two-day workshops to help people build their first website.
   - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
