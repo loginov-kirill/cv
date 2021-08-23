@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Kirill Loginov's CV
 logo: /assets/img/id.jpg
-description: Skills - Python
-  - C#
+# description: 
   
 show_downloads: false
