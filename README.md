@@ -1,12 +1,12 @@
 # Software Engineer
 
-_Software engineer based in Moscow, Russia_ <br>
+_Software Architect based in Dubai, OAE_ <br>
 
-[Email](mailto:jiekc.pppc@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
+[Email](mailto:k.loginov.dev@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
 
 ## Skills
  - Python, C#, Bash
- - PostgreSQL, MySQL, MongoDB, Elasticsearch
+ - PostgreSQL, MongoDB, Elasticsearch, ClickHouse, 
  - Linux, RabbitMQ, Gitlab, CI/CD, Docker, Nginx, Zennoposter, Minio
  - Amazon Web Services (AWS)
  - Scrapy, Django, Vue.js, TensorFlow, Matlab, Octave
@@ -51,9 +51,11 @@ _Software engineer based in Moscow, Russia_ <br>
 💼 Data parsing 🚀 The program collects construction goods for price analysis on the Russian market. <br>
 **_Technologies used:_** Python, Docker, CI/CD, Nginx, Scrapy, Minio, PostgreSQL, EllasticSearch <br>
 
-
+[MPlab](https://mplab.io/)  _(2023)_ <br>
+💼 Web Application 🚀 A platform for promoting sellers on marketplaces <br>
+**_Technologies used:_** Python, Docker, CI/CD, Vue, Minio, PostgreSQL, EllasticSearch, ClickHouse, Selenium. <br>
 
 ## 💬 Languages
 **Russian**: Native <br>
-**English**: B1, Intermediate
+**English**: B2, Intermediate
 <br><br>
