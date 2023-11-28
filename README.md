@@ -4,58 +4,65 @@ _Software Architect based in Dubai, OAE_ <br>
 
 [Email](mailto:k.loginov.dev@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
 
-## Skills
- - Python, C#, Bash
- - PostgreSQL, MongoDB, Elasticsearch, ClickHouse, 
- - Linux, RabbitMQ, Gitlab, CI/CD, Docker, Nginx, Zennoposter, Minio
- - Amazon Web Services (AWS)
- - Scrapy, Django, Vue.js, TensorFlow, Matlab, Octave
+## 🌟 Professional Skills
 
- - Full-Stack Development
- - Object-Oriented Analysis, Design, Programming (OOA/OOD/OOP)
- - Algorithm Design and Analysis
- - Test Driven Development - Unit, Integration, System Testing
- - Agile Methodologies - Scrum
- - Fluent in functional programming, asynchronous programming
- - Experience in statistical data analysis and machine learning
 
- - Adobe Illustrator, Adobe After Effects
+### 👨‍💻 Programming Languages:
 
-## Work Experience
+Proficient in Python, C#, and Bash scripting.
 
-[positivebet](https://www.positivebet.com/) _(Jan 2017)_ <br>
-💼 A bot for sure bets for bookmakers 🚀 the program was looking for values for the odds of sure bets. <br>
-**_Technologies used:_** C#, PostgreSQL <br>
+### 🗄️ Databases:
 
-[parserok](https://parserok.ru/) _(Jul 2017)_ <br>
-💼 Collecting information from all message boards in Russia and the CIS 🚀 Collection of numbers, names, places of residence of users <br>
-**_Technologies used:_** ZennoPoster, PostgreSQL <br>
+Experienced in PostgreSQL, MongoDB, Elasticsearch, ClickHouse.
 
-[senler](https://senler.ru/) _(Dec 2017)_ <br>
-💼 VK combine for arbitrage of traffic 🚀 The program collects data from VK. Creates accounts. Sends messages. <br>
-**_Technologies used:_** Python, PostgreSQL <br>
+### 🛠️ Technologies & Tools:
 
-**checkNumbers**  _(Dec 2017)_ <br>
-💼 Messengers combine 🚀 Check numbers for whatsapp, telegram, viber. <br>
-**_Technologies used:_** Appium, Python, PostgreSQL <br>
+Proficient with Linux, RabbitMQ, Gitlab, CI/CD, Docker, Nginx, Minio.
+Skilled in using Amazon Web Services (AWS).
 
-[fbcombo](https://www.contentful.com/) _(May 2018)_ <br>
-💼 FB combine for arbitrage of traffic 🚀 The program collects data from VK. <br>
-**_Technologies used:_** ZennoPoster, Python <br>
+### 🌐 Frameworks & Libraries:
 
-[VideoDownloader](https://www.contentful.com/) _(May 2019)_ <br>
-💼 The program downloads videos from 200 sites 🚀 processes 15,000 / video per day using ffmpeg and uploads to file hosting. <br>
-**_Technologies used:_** Python, ffmpeg, PostgreSQL, MySQL, Docker <br>
+Experienced in web scraping with Scrapy.
+Full-stack development expertise using Django and Vue.js.
+Proficient in machine learning with TensorFlow, as well as statistical analysis tools like Matlab and Octave.
 
-**Scrapper**  _(May 2021)_ <br>
-💼 Data parsing 🚀 The program collects construction goods for price analysis on the Russian market. <br>
-**_Technologies used:_** Python, Docker, CI/CD, Nginx, Scrapy, Minio, PostgreSQL, EllasticSearch <br>
+### 🔍 Development Practices:
 
-[MPlab](https://mplab.io/)  _(2023)_ <br>
-💼 Web Application 🚀 A platform for promoting sellers on marketplaces <br>
-**_Technologies used:_** Python, Docker, CI/CD, Vue, Minio, PostgreSQL, EllasticSearch, ClickHouse, Selenium. <br>
+Strong background in Full-Stack Development.
+Experienced in Object-Oriented Analysis, Design, and Programming (OOA/OOD/OOP).
+Proficient in Algorithm Design and Analysis, with a focus on Test-Driven Development including Unit, Integration, and System Testing.
+Practiced in Agile Methodologies, particularly Scrum.
+Fluent in functional and asynchronous programming.
+Skilled in statistical data analysis and machine learning techniques.
+
+### 🎨 Additional Skills:
+
+Competent in using Adobe Illustrator and Adobe After Effects for creative and design tasks.
+Knowledgeable in IoT, blockchain technology, data science, and data engineering.
+Skilled in using Matplotlib, Grafana, Airflow, Sklearn for data visualization and analysis.
+Proficient in Linux system administration.
+Experienced with FastAPI, Flask for backend development.
+Skilled in data architecture, software architecture, product analytics.
+Proficient in team leadership, team recruitment, code design, and architectural planning.
+
+
+## 🚀 Professional Experience
+
+
+Over the past 7 years, I've navigated the complex landscape of IT and software development, culminating in a series of successful projects and innovations. Here's a brief overview of my journey:
+
+**Independent Software Development**: Began with creating small-scale programs, gradually moving to more complex projects in traffic arbitrage and software development for smaller firms.
+
+**Government Contracting**: Successfully secured and completed government tenders for digital product creation.
+
+**Startup Ventures**: Established my first startup, paving my way into the startup ecosystem. I've since been dedicated to this field, focusing on bringing innovative tech solutions to market.
+
+**Leadership Roles**: Served in key positions including CTO and CEO, where I led teams in development and strategic business operations. Specialized in fostering team spirit and guiding projects to their successful fruition.
+
+**Educational Background**: While my formal education isn't directly related to my current field, I have invested heavily in self-education and professional development courses, including a current MBA program at Oxford, to continually refine my skills and stay abreast of industry trends.
+
 
 ## 💬 Languages
+**English**: C1, Advanced
 **Russian**: Native <br>
-**English**: B2, Intermediate
 <br><br>
