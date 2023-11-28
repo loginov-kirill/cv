@@ -18,7 +18,7 @@ Experienced in PostgreSQL, MongoDB, Elasticsearch, ClickHouse.
 ### 🛠️ Technologies & Tools:
 
 Proficient with Linux, RabbitMQ, Gitlab, CI/CD, Docker, Nginx, Minio.
-Skilled in using Amazon Web Services (AWS).
+Skilled in using Amazon Web Services (AWS), Hetzner.
 
 ### 🌐 Frameworks & Libraries:
 
