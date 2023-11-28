@@ -2,7 +2,7 @@
 
 _Software Architect based in Dubai, OAE_ <br>
 
-[Email](mailto:k.loginov.dev@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kirill-loginov-992008216/) / [GitHub](https://github.com/logoskir/) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
+[Email](mailto:k.loginov.dev@gmail.com) / [LinkedIn](https://www.linkedin.com/in/loginov-kirill/) / [GitHub](https://github.com/logoskir/) / [Twitter](https://twitter.com/KiriLoginov) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
 
 ## 🌟 Professional Skills
 
