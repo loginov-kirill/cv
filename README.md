@@ -4,11 +4,11 @@ _Senior Software Architect based in Dubai, UAE_ <br>
 
 [![Email](https://img.shields.io/badge/Email-k.loginov.dev%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:k.loginov.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-loginov--kirill-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/loginov-kirill/)
-[![GitHub](https://img.shields.io/badge/GitHub-logoskir-blue?style=flat-square&logo=github)](https://github.com/logoskir/)
+[![GitHub](https://img.shields.io/badge/GitHub-loginov--kirill-blue?style=flat-square&logo=github)](https://github.com/loginov-kirill/)
 [![Twitter](https://img.shields.io/badge/Twitter-KiriLoginov-blue?style=flat-square&logo=twitter)](https://twitter.com/KiriLoginov)
 [![Telegram](https://img.shields.io/badge/Telegram-logoskir-blue?style=flat-square&logo=telegram)](https://t.me/logoskir)
-[![Codewars](https://img.shields.io/badge/Codewars-logoskir-red?style=flat-square&logo=codewars)](https://www.codewars.com/users/logoskir)
-[![DEV](https://img.shields.io/badge/DEV-logoskir-black?style=flat-square&logo=dev.to)](https://dev.to/logoskir)
+[![Codewars](https://img.shields.io/badge/Codewars-loginov--kirill-red?style=flat-square&logo=codewars)](https://www.codewars.com/users/loginov-kirill)
+[![LeetCode](https://img.shields.io/badge/LeetCode-loginov--kirill-blue?style=flat-square&logo=leetcode)](https://leetcode.com/loginov--kirill/)
 
 ---
 
