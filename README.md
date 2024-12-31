@@ -10,6 +10,10 @@ _Senior Software Architect based in Dubai, UAE_ <br>
 [![Codewars](https://img.shields.io/badge/Codewars-loginov--kirill-red?style=flat-square&logo=codewars)](https://www.codewars.com/users/loginov-kirill)
 [![LeetCode](https://img.shields.io/badge/LeetCode-loginov--kirill-blue?style=flat-square&logo=leetcode)](https://leetcode.com/loginov--kirill/)
 
+
+[![PDF](https://img.shields.io/badge/Download-PDF%20Version-green?style=flat-square&logo=adobe)](./CV_Kirill_Loginov.pdf)
+[![Print](https://img.shields.io/badge/Open-Print%20View-lightgrey?style=flat-square&logo=print)](javascript:window.print())
+
 ---
 
 ## 🎯 Professional Skills
