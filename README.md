@@ -1,68 +1,57 @@
-# Software Architect
+# 👨‍💻 Software Architect
 
-_Software Architect based in Dubai, OAE_ <br>
+_Senior Software Architect based in Dubai, UAE_ <br>
 
-[Email](mailto:k.loginov.dev@gmail.com) / [LinkedIn](https://www.linkedin.com/in/loginov-kirill/) / [GitHub](https://github.com/logoskir/) / [Twitter](https://twitter.com/KiriLoginov) / [Telegram](https://t.me/logoskir) / [Codewars](https://www.codewars.com/users/logoskir) / [DEV](https://dev.to/logoskir)
+[![Email](https://img.shields.io/badge/Email-k.loginov.dev%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:k.loginov.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-loginov--kirill-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/loginov-kirill/)
+[![GitHub](https://img.shields.io/badge/GitHub-logoskir-blue?style=flat-square&logo=github)](https://github.com/logoskir/)
+[![Twitter](https://img.shields.io/badge/Twitter-KiriLoginov-blue?style=flat-square&logo=twitter)](https://twitter.com/KiriLoginov)
+[![Telegram](https://img.shields.io/badge/Telegram-logoskir-blue?style=flat-square&logo=telegram)](https://t.me/logoskir)
+[![Codewars](https://img.shields.io/badge/Codewars-logoskir-red?style=flat-square&logo=codewars)](https://www.codewars.com/users/logoskir)
+[![DEV](https://img.shields.io/badge/DEV-logoskir-black?style=flat-square&logo=dev.to)](https://dev.to/logoskir)
 
-## 🌟 Professional Skills
+---
 
+## 🎯 Professional Skills
 
-### 👨‍💻 Programming Languages:
+### 🔧 Technical Stack
 
-Proficient in Python, C#, and Bash scripting.
+- **Languages**: Python, C#, Bash
+- **Databases**: PostgreSQL, MongoDB, Elasticsearch, ClickHouse
+- **Cloud & DevOps**: AWS, Docker, CI/CD, Nginx, RabbitMQ, Minio, Hetzner
+- **Frameworks**: Django, Vue.js, FastAPI, Flask
+- **Data Science**: TensorFlow, Matlab, Octave, Matplotlib, Sklearn
+- **Tools**: Gitlab, Grafana, Airflow
 
-### 🗄️ Databases:
+### 💡 Core Competencies
 
-Experienced in PostgreSQL, MongoDB, Elasticsearch, ClickHouse.
+- **Architecture**: Software Design, Data Architecture, System Integration
+- **Development**: Full-Stack Development, Test-Driven Development
+- **Methodologies**: Agile/Scrum, OOP/OOD, Algorithm Design
+- **Leadership**: Team Management, Technical Recruitment, Project Planning
+- **Specialties**: IoT, Blockchain, Data Engineering, Product Analytics
 
-### 🛠️ Technologies & Tools:
-
-Proficient with Linux, RabbitMQ, Gitlab, CI/CD, Docker, Nginx, Minio.
-Skilled in using Amazon Web Services (AWS), Hetzner.
-
-### 🌐 Frameworks & Libraries:
-
-Experienced in web scraping with Scrapy.
-Full-stack development expertise using Django and Vue.js.
-Proficient in machine learning with TensorFlow, as well as statistical analysis tools like Matlab and Octave.
-
-### 🔍 Development Practices:
-
-Strong background in Full-Stack Development.
-Experienced in Object-Oriented Analysis, Design, and Programming (OOA/OOD/OOP).
-Proficient in Algorithm Design and Analysis, with a focus on Test-Driven Development including Unit, Integration, and System Testing.
-Practiced in Agile Methodologies, particularly Scrum.
-Fluent in functional and asynchronous programming.
-Skilled in statistical data analysis and machine learning techniques.
-
-### 🎨 Additional Skills:
-
-Competent in using Adobe Illustrator and Adobe After Effects for creative and design tasks.
-Knowledgeable in IoT, blockchain technology, data science, and data engineering.
-Skilled in using Matplotlib, Grafana, Airflow, Sklearn for data visualization and analysis.
-Proficient in Linux system administration.
-Experienced with FastAPI, Flask for backend development.
-Skilled in data architecture, software architecture, product analytics.
-Proficient in team leadership, team recruitment, code design, and architectural planning.
-
+---
 
 ## 🚀 Professional Experience
 
+**7+ Years in Software Development & Leadership**
 
-Over the past 7 years, I've navigated the complex landscape of IT and software development, culminating in a series of successful projects and innovations. Here's a brief overview of my journey:
+- 🏢 Independent Software Development
+- 🏛️ Government Contract Projects
+- 🌱 Startup Ventures & Innovation
+- 👥 Technical Leadership (CTO/CEO roles)
+- 📚 Continuing Education (Current MBA at Oxford)
 
-**Independent Software Development**: Began with creating small-scale programs, gradually moving to more complex projects in traffic arbitrage and software development for smaller firms.
+---
 
-**Government Contracting**: Successfully secured and completed government tenders for digital product creation.
+## 🌐 Languages
 
-**Startup Ventures**: Established my first startup, paving my way into the startup ecosystem. I've since been dedicated to this field, focusing on bringing innovative tech solutions to market.
+| Language | Proficiency |
+|----------|-------------|
+| English  | C1 (Advanced) |
+| Russian  | Native |
 
-**Leadership Roles**: Served in key positions including CTO and CEO, where I led teams in development and strategic business operations. Specialized in fostering team spirit and guiding projects to their successful fruition.
+---
 
-**Educational Background**: While my formal education isn't directly related to my current field, I have invested heavily in self-education and professional development courses, including a current MBA program at Oxford, to continually refine my skills and stay abreast of industry trends.
-
-
-## 💬 Languages
-**English**: C1, Advanced
-**Russian**: Native <br>
-<br><br>
+_Open to exciting opportunities in software architecture and technical leadership_
